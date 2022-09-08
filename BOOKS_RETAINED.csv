@@ -40,7 +40,7 @@ John Steinbeck,The Grapes of Wrath,1939,Fiction,READ
 John Steinbeck,To a God Unknown,1933,Fiction,UNREAD
 Sergio De La Pava,A Naked Singularity,2008,Fiction,UNREAD
 Mark Danielewski,House of Leaves,2000,Fiction,READ
-Umberto Eco,The Island of the Day Before,1995,Fiction,CURRENTLY READING
+Umberto Eco,The Island of the Day Before,1995,Fiction,READ
 Umberto Eco,Numero Zero,2015,Fiction,READ
 John Dos Passos,The U.S.A. Trilogy,1930,Fiction,PARTIALLY READ
 William Hallahan,The Search for Joseph Tully,1974,Fiction,UNREAD
@@ -132,99 +132,100 @@ Franz Fanon,The Wreteched of the Earth,1961,Non-Fiction,READ
 Nelson Mandela,Long Walk to Freedom,1994,Non-Fiction,READ
 David Graeber,"Debt: The First 5,000 Years",2011,Non-Fiction,READ
 David Graeber,"Possibilities: Essays on Hierarchy, Rebellion, and Desire",2007,Non-Fiction,UNREAD
-Georges Nzongola-Ntalaja,The Congo – From Leopold to Kabila,,Non-Fiction,READ
-Joshua Slocum,Sailing Alone Around the World,,Non-Fiction,READ
-Thomas Paine,Common Sense and other Writings,,Non-Fiction,UNREAD
-Edith Hamilton,Mythology,,Non-Fiction,READ
-Michel Foucault,Madness & Civilization,,Non-Fiction,UNREAD
-Michel Foucault,Discipline & Punish,,Non-Fiction,READ
-Joseph Bronowski,The Ascent of Man,,Non-Fiction,UNREAD
-Frank J. Donner,Protectors of Privilege: Red Squads and Police Repression in Urban America,,Non-Fiction,READ
-Philip B. Dematteis,Individuality and the Social Organism,,Non-Fiction,READ
-Anna Lowenhaupt Tsing,The Mushroom at the End of the World,,Non-Fiction,UNREAD
-Henri Lefebvre,Critique of Life,,Non-Fiction,UNREAD
-Henri Lefebvre,"Hegel, Marx, Nietzsche",,Non-Fiction,UNREAD
-Michael Friedman,"A Parting of the Ways: Carnap, Cassirer, and Heidegger",,Non-Fiction,READ
-Victor Marchetti & John D. Marks,The CIA and the Cult of Intelligence,,Non-Fiction,PARTIALLY READ
-Henri Bergson,Time and Free Will,,Non-Fiction,UNREAD
-Benedict Anderson,Imagined Communities,,Non-Fiction,READ
-Bertrand Russell,The Problems of Philosophy,,Non-Fiction,READ
-Bertrand Russell,A History of Western Philosophy,,Non-Fiction,PARTIALLY READ
-Albert Camus,The Myth of Sisyphus,,Non-Fiction,READ
-Albert Camus,The Rebel,,Non-Fiction,READ
-Germaine Bree,Camus and Sartre: Crisis and Commitment ,,Non-Fiction,READ
-Jean Paul Sartre,Being and Nothingness,,Non-Fiction,READ
-Albert Hofstadter & Richard Kuhns,Philosophies of Art & Beauty,,Non-Fiction,UNREAD
+Georges Nzongola-Ntalaja,The Congo – From Leopold to Kabila,2002,Non-Fiction,READ
+Joshua Slocum,Sailing Alone Around the World,1899,Non-Fiction,READ
+Thomas Paine,Common Sense and other Writings,1953,Non-Fiction,UNREAD
+Edith Hamilton,Mythology,1942,Non-Fiction,READ
+Michel Foucault,Madness & Civilization,1961,Non-Fiction,UNREAD
+Michel Foucault,Discipline & Punish,1975,Non-Fiction,READ
+Jacob Bronowski,The Ascent of Man,1974,Non-Fiction,UNREAD
+Frank J. Donner,Protectors of Privilege: Red Squads and Police Repression in Urban America,1990,Non-Fiction,READ
+Philip B. Dematteis,Individuality and the Social Organism,1976,Non-Fiction,READ
+Anna Lowenhaupt Tsing,The Mushroom at the End of the World,2015,Non-Fiction,UNREAD
+Henri Lefebvre,Critique of Life,1947,Non-Fiction,UNREAD
+Henri Lefebvre,"Hegel, Marx, Nietzsche",1975,Non-Fiction,UNREAD
+Michael Friedman,"A Parting of the Ways: Carnap, Cassirer, and Heidegger",2000,Non-Fiction,READ
+Victor Marchetti & John D. Marks,The CIA and the Cult of Intelligence,1974,Non-Fiction,PARTIALLY READ
+Henri Bergson,Time and Free Will,1889,Non-Fiction,UNREAD
+Benedict Anderson,Imagined Communities,1983,Non-Fiction,READ
+Bertrand Russell,The Problems of Philosophy,1912,Non-Fiction,READ
+Bertrand Russell,A History of Western Philosophy,1945,Non-Fiction,PARTIALLY READ
+Albert Camus,The Myth of Sisyphus,1942,Non-Fiction,READ
+Albert Camus,The Rebel,1951,Non-Fiction,READ
+Germaine Bree,Camus and Sartre: Crisis and Commitment,1972,Non-Fiction,READ
+Jean Paul Sartre,Being and Nothingness,1943,Non-Fiction,READ
+Albert Hofstadter & Richard Kuhns,Philosophies of Art & Beauty,1976,Non-Fiction,UNREAD
 Friedrich Nietzsche,The Basic Writings of Nietzsche,,Non-Fiction,READ
-James Baldwin,Collected Essays,,Non-Fiction,READ
-Herbert Read,Art and Society,,Non-Fiction,UNREAD
-Herbert Read,Education through Art,,Non-Fiction,READ
-Herbert Marcuse,Reason and Revolution,,Non-Fiction,UNREAD
-Herbert Marcuse,One-Dimensional Man,,Non-Fiction,READ
-Georg Wilhelm Friedrich Hegel,Phenomenology of Spirit,,Non-Fiction,PARTIALLY READ
-Ludwig Wittgenstein,The Blue and Brown Books,,Non-Fiction,UNREAD
-William C. Anderson,The Nation on No Map,,Non-Fiction,READ
-Karl Marx,Capital – Volume I,,Non-Fiction,PARTIALLY READ
-Edmund Husserl,Ideas,,Non-Fiction,UNREAD
-Walter Benjamin,Illuminations,,Non-Fiction,UNREAD
-Simone De Beauvoir,The Ethics of Ambiguity,,Non-Fiction,UNREAD
-Simone De Beauvoir,The Second Sex,,Non-Fiction,PARTIALLY READ
-George Orwell,Homage to Catalonia,,Non-Fiction,READ
-Murray Bookchin & David Foreman,Defending the Earth,,Non-Fiction,READ
-Murray Bookchin,The Ecology of Freedom,,Non-Fiction,READ
-Murray Bookchin,Post-Scarcity Anarchism,,Non-Fiction,READ
-Penny Rimbaud,The Last of the Hippies,,Non-Fiction,READ
-Carolyn Ashbaugh,Lucy Parsons: An American Revolutionary,,Non-Fiction,READ
-Jackie Wang,Carceral Capitalism,,Non-Fiction,READ
-William Morris,News From Nowhere and Other Writings,,Non-Fiction,UNREAD
-Maurice Godelier,The Mental and the Material,,Non-Fiction,UNREAD
-Thomas Hobbes,Leviathan,,Non-Fiction,READ
-Plato,The Last Days of Socrated,,Non-Fiction,READ
-Berucht Spinoza,Ethics,,Non-Fiction,READ
-Hannah Arendt,Eichmann in Jerusalem,,Non-Fiction,READ
-Peter Kropotkin,A Conquest for Bread,,Non-Fiction,READ
-Peter Kropotkin,Mutual Aid,,Non-Fiction,READ
-Peter Kropotkin,"Fields, Factories and Workshops Tomorrow",,Non-Fiction,READ
-Theodor Adorno,Minima Moralia: Reflections of a Damaged Life,,Non-Fiction,UNREAD
-Theodor Adorno & Frank Horkenheimer,Dialectic of Enlightenment,,Non-Fiction,READ
-Max Stirner,The Ego and His Own,,Non-Fiction,READ
-Wing-Tsit Chan,A Source Book in Chinese Philosophy,,Non-Fiction,UNREAD
-Henry David Thoreau,Walden,,Non-Fiction,READ
-Voltairine De Cleyre,The Selected Works,,Non-Fiction,READ
-Max Weber,The Protestant Ethic and the Spirit of Capitalism,,Non-Fiction,READ
-Marshall McLuhan,The Global Village: Transformations in World Life and Media in the 21st Century,,Non-Fiction,PARTIALLY READ
-Alexander Vasudevan,The Autonomous City: A History of Urban Squatting,,Non-Fiction,READ
-Jonathan Wolff,An Introduction to Political Philosophy,,Non-Fiction,READ
-Michael Taylor,The Possibility of Cooperation,,Non-Fiction,READ
-Colin Woodard,American Nations,,Non-Fiction,UNREAD
-(Various Authors),Revolution in Rojava,,Non-Fiction,READ
-Jacob Blumenfeld,All Things are Nothing to Me,,Non-Fiction,READ
-Mark Fisher,Capitalist Realism,,Non-Fiction,READ
+James Baldwin,Collected Essays,1998,Non-Fiction,READ
+Herbert Read,Art and Society,1966,Non-Fiction,UNREAD
+Herbert Read,Education through Art,1925,Non-Fiction,READ
+Herbert Marcuse,Reason and Revolution,1940,Non-Fiction,UNREAD
+Herbert Marcuse,One-Dimensional Man,1964,Non-Fiction,READ
+Georg Wilhelm Friedrich Hegel,Phenomenology of Spirit,1807,Non-Fiction,PARTIALLY READ
+Ludwig Wittgenstein,The Blue and Brown Books,1935,Non-Fiction,UNREAD
+William C. Anderson,The Nation on No Map,2021,Non-Fiction,READ
+Karl Marx,Capital – Volume I,1867,Non-Fiction,PARTIALLY READ
+Edmund Husserl,Ideas,1913,Non-Fiction,UNREAD
+Walter Benjamin,Illuminations,1955,Non-Fiction,UNREAD
+Simone De Beauvoir,The Ethics of Ambiguity,1947,Non-Fiction,UNREAD
+Simone De Beauvoir,The Second Sex,1949,Non-Fiction,PARTIALLY READ
+George Orwell,Homage to Catalonia,1938,Non-Fiction,READ
+Murray Bookchin & David Foreman,Defending the Earth,1990,Non-Fiction,READ
+Murray Bookchin,The Ecology of Freedom,1982,Non-Fiction,READ
+Murray Bookchin,Post-Scarcity Anarchism,1971,Non-Fiction,READ
+Penny Rimbaud,The Last of the Hippies,1982,Non-Fiction,READ
+Carolyn Ashbaugh,Lucy Parsons: An American Revolutionary,1976,Non-Fiction,READ
+Jackie Wang,Carceral Capitalism,2017,Non-Fiction,READ
+William Morris,News From Nowhere and Other Writings,1890,Non-Fiction,UNREAD
+Maurice Godelier,The Mental and the Material,1984,Non-Fiction,UNREAD
+Thomas Hobbes,Leviathan,1651,Non-Fiction,READ
+Plato,The Last Days of Socrates,-400,Non-Fiction,READ
+Berucht Spinoza,Ethics,1677,Non-Fiction,READ
+Hannah Arendt,Eichmann in Jerusalem,1963,Non-Fiction,READ
+Peter Kropotkin,A Conquest of Bread,1892,Non-Fiction,READ
+Peter Kropotkin,Mutual Aid,1891,Non-Fiction,READ
+Peter Kropotkin,"Fields, Factories and Workshops Tomorrow",1899,Non-Fiction,READ
+Theodor Adorno,Minima Moralia: Reflections of a Damaged Life,1951,Non-Fiction,UNREAD
+Theodor Adorno & Frank Horkenheimer,Dialectic of Enlightenment,1944,Non-Fiction,READ
+Max Stirner,The Ego and His Own,1844,Non-Fiction,READ
+Wing-Tsit Chan,A Source Book in Chinese Philosophy,1963,Non-Fiction,UNREAD
+Henry David Thoreau,Walden,1854,Non-Fiction,READ
+Voltairine De Cleyre,The Selected Works,1913,Non-Fiction,READ
+Max Weber,The Protestant Ethic and the Spirit of Capitalism,1904,Non-Fiction,READ
+Marshall McLuhan,The Global Village: Transformations in World Life and Media in the 21st Century,1989,Non-Fiction,PARTIALLY READ
+Alexander Vasudevan,The Autonomous City: A History of Urban Squatting,2017,Non-Fiction,READ
+Jonathan Wolff,An Introduction to Political Philosophy,1996,Non-Fiction,READ
+Michael Taylor,The Possibility of Cooperation,1987,Non-Fiction,READ
+Colin Woodard,American Nations,2011,Non-Fiction,UNREAD
+(Various Authors),Revolution in Rojava,2016,Non-Fiction,READ
+Jacob Blumenfeld,All Things are Nothing to Me,2018,Non-Fiction,READ
+Mark Fisher,Capitalist Realism,2009,Non-Fiction,READ
 Errico Malatesta,The Method of Freedom,,Non-Fiction,UNREAD
-Kevin Carson,The Desktop Regulatory State,,Non-Fiction,UNREAD
-Frederick Brooks,The Mythical Man-Month: Essays on Software Engineering,,Non-Fiction,READ
-Glyn Moody,Rebel Code,,Non-Fiction,UNREAD
-Simon Singh,The Code Book,,Non-Fiction,READ
-Carl Sagan,Cosmos,,Non-Fiction,READ
-Carl Sagan,The Demon-Haunted World,,Non-Fiction,READ
-Carl Sagan,Billions & Billions,,Non-Fiction,READ
-Carl Sagan,The Dragons of Eden,,Non-Fiction,READ
-Carl Sagan,Pale Blue Dot,,Non-Fiction,READ
-Carl Sagan & Ann Druyan,Shadows of Forgotten Ancestors,,Non-Fiction,READ
-(Various Authors),Murmurs of Earth,,Non-Fiction,PARTIALLY READ
-Stephen Hawking,A Brief History of Time,,Non-Fiction,UNREAD
-Stephen Hawking,The Universe in a Nutshell,,Non-Fiction,UNREAD
-Isaac Asimov,Asimov on Astronomy,,Non-Fiction,UNREAD
-Isaac Asimov,The Collapsing Universe,,Non-Fiction,UNREAD
-Isaac Asimov,The Universe,,Non-Fiction,UNREAD
-Daniel J. Boorstin,The Discoverers,,Non-Fiction,UNREAD
-Brian Greene,The Fabric of the Cosmos,,Non-Fiction,UNREAD
-David Attenborough,Life on Earth,,Non-Fiction,PARTIALLY READ
-Francois Truffaut,Hitchcock,,Non-Fiction,UNREAD
-Lois Tyson,Critical Theory Today: A User-Friendly Guide,,Non-Fiction,READ
-Akira Kurosawa,Something Like an Autobiography,,Non-Fiction,UNREAD
-David Lynch,Lynch on Lynch,,Non-Fiction,READ
-Leo Tolstoy,A Confession,,Non-Fiction,READ
-Thomas Nail,Lucretius I: An Ontology of Motion,,Non-Fiction,UNREAD
-Lucretius,The Nature of Things,,Non-Fiction,UNREAD
-Gilles Deleuze,Spinoza: Practical Philosophy,,Non-Fiction,UNREAD
+Kevin Carson,The Desktop Regulatory State,2017,Non-Fiction,UNREAD
+Frederick Brooks,The Mythical Man-Month: Essays on Software Engineering,1975,Non-Fiction,READ
+Glyn Moody,Rebel Code,2000,Non-Fiction,UNREAD
+Simon Singh,The Code Book,1999,Non-Fiction,READ
+Carl Sagan,Cosmos,1980,Non-Fiction,READ
+Carl Sagan,The Demon-Haunted World,1996,Non-Fiction,READ
+Carl Sagan,Billions & Billions,1997,Non-Fiction,READ
+Carl Sagan,The Dragons of Eden,1977,Non-Fiction,READ
+Carl Sagan,Pale Blue Dot,1994,Non-Fiction,READ
+Carl Sagan & Ann Druyan,Shadows of Forgotten Ancestors,1992,Non-Fiction,READ
+(Various Authors),Murmurs of Earth,1978,Non-Fiction,PARTIALLY READ
+Stephen Hawking,A Brief History of Time,1988,Non-Fiction,UNREAD
+Stephen Hawking,The Universe in a Nutshell,2001,Non-Fiction,UNREAD
+Isaac Asimov,Asimov on Astronomy,1974,Non-Fiction,UNREAD
+Isaac Asimov,The Collapsing Universe,1973,Non-Fiction,UNREAD
+Isaac Asimov,The Universe,,Non-Fiction,1966,UNREAD
+Daniel J. Boorstin,The Discoverers,1983,Non-Fiction,UNREAD
+Brian Greene,The Fabric of the Cosmos,2003,Non-Fiction,UNREAD
+David Attenborough,Life on Earth,1979,Non-Fiction,PARTIALLY READ
+Francois Truffaut,Hitchcock,1966,Non-Fiction,UNREAD
+Lois Tyson,Critical Theory Today: A User-Friendly Guide,1998,Non-Fiction,READ
+Akira Kurosawa,Something Like an Autobiography,1982,Non-Fiction,UNREAD
+David Lynch,Lynch on Lynch,1997,Non-Fiction,READ
+Leo Tolstoy,A Confession,1880,Non-Fiction,READ
+Thomas Nail,Lucretius I: An Ontology of Motion,2018,Non-Fiction,UNREAD
+Lucretius,The Nature of Things,-55,Non-Fiction,CURRENTLY READING
+Gilles Deleuze,Spinoza: Practical Philosophy,1970,Non-Fiction,UNREAD
+Paul Virilio,Open Sky,1995,Non-Fiction,UNREAD
